@@ -1,16 +1,19 @@
-### Hi there 👋
+Hi! 👋 I'm Zilvinas Kucinskas, an independent developer who's specialised working with Ruby on Rails, Sidekiq, Hotwire (Stimulus + Turbo), TailwindCSS, Docker, Terraform and AWS.
 
-<!--
-**ZilvinasKucinskas/ZilvinasKucinskas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Here's what I can help you with:
 
-Here are some ideas to get you started:
+* Building SaaS applications, especially API as a service.
+* Scraping data at scale.
+* Performance optimizations.
+* Infrastructure as a code on AWS.
+* SEO (Search Engine Optimization).
+* System design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Here's a few of the projects I'm working on:
+
+* [ExportData](https://www.exportdata.io/) - Twitter data export tool.
+* [ziku.dev](https://www.ziku.dev/) - My blog on Ruby on Rails.
+
+✨ You can follow me on Twitter [@zilkucinskas](https://twitter.com/zilkucinskas)
+
+💌 I would love to work together! [Send me an email](mailto:zil.kucinskas@gmail.com) to get in touch.
