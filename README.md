@@ -1,4 +1,4 @@
-Hi! 👋 I'm Zilvinas Kucinskas, an independent developer who's specialised working with Ruby on Rails, Sidekiq, Hotwire (Stimulus + Turbo), TailwindCSS, Docker, Terraform and AWS.
+Hi! 👋 I'm Zilvinas Kucinskas, an independent developer who's specialised working with Ruby on Rails, Sidekiq, Hotwire (Stimulus + Turbo), TailwindCSS, PostgreSQL, Redis, ElasticSearch, Docker, Terraform and AWS.
 
 👨‍💻 Here's what I can help you with:
 
